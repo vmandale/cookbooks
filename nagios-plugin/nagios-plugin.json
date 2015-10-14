@@ -1,0 +1,3 @@
+{
+	"run_list" : ["recipe[nagios-plugin::user]", "recipe[nagios-plugin::pkg_install]", "recipe[nagios-plugin::plugin_install]"]
+}
