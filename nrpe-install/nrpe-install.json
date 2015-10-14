@@ -1,0 +1,3 @@
+{
+	"run_list" : ["recipe[nrpe-install::user]", "recipe[nrpe-install::pkg_install]", "recipe[nrpe-install::nrpe_install]"]
+}
