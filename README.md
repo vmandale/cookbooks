@@ -1,2 +1,0 @@
-# cookbooks
-Chef Cookbooks
